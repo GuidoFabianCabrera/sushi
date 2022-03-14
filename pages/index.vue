@@ -129,7 +129,7 @@ export default {
     top: 0;
     left: 0;
     z-index: 0;
-    background-image: url("/images/background.jpg");
+    background-image: url("https://guidofabiancabrera.github.io/sushi/images/background.jpg");
     background-size: cover;
     background-position: center;
   }
