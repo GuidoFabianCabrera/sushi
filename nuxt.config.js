@@ -55,7 +55,7 @@ export default {
       {
         rel: "icon",
         type: "image/x-icon",
-        href: "https://guidofabiancabrera.github.io/wax-io/favicon.ico"
+        href: "https://guidofabiancabrera.github.io/sushi/favicon.ico"
       },
       {
         href:
